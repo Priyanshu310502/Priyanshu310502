@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source projects.**
 
-- How to reach me **kumawatpriyanshu993@gmil.com**
-
 - 💬 Ask me about **Data Structures and Algorithms, Competitive Programming, and development-related topics.**
+
+- 📫 How to reach me **kumawatpriyanshu993@gmil.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mz1zg9DM9mAPUqszDIUcnFKlV-RyjmVU/view?usp=drivesdk](https://drive.google.com/file/d/1mz1zg9DM9mAPUqszDIUcnFKlV-RyjmVU/view?usp=drivesdk)
 
