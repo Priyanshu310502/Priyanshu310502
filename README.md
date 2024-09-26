@@ -28,4 +28,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu310502&show_icons=true&locale=en&layout=compact" alt="priyanshu310502" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu310502&show_icons=true&locale=en" alt="priyanshu310502" /></p>
